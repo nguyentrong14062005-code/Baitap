@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-10-23T19:12:48 ICT" name="Surefire suite" finished-at="2026-10-23T19:13:05 ICT" duration-ms="17022">
+    <groups>
+    </groups>
+    <test started-at="2026-10-23T19:12:48 ICT" name="Surefire test" finished-at="2026-10-23T19:13:05 ICT" duration-ms="17022">
+      <class name="tests.PracticeFormTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:tests.PracticeFormTest@77167fb7]" started-at="2026-10-23T19:12:48 ICT" name="setUp" finished-at="2026-10-23T19:12:53 ICT" duration-ms="4716" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testSubmitPracticeForm(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:tests.PracticeFormTest@77167fb7]" started-at="2026-10-23T19:12:53 ICT" name="testSubmitPracticeForm" data-provider="studentData" finished-at="2026-10-23T19:12:55 ICT" duration-ms="1425" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Nguyen]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Trong]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[nguyentrong14062005@gmail.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Male]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[0901234567]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[15]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[May]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[2005]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[Maths]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[Sports]]>
+              </value>
+            </param>
+            <param index="10">
+              <value>
+                <![CDATA[615 AU CO, HCM]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSubmitPracticeForm -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:tests.PracticeFormTest@77167fb7]" started-at="2026-10-23T19:12:55 ICT" name="tearDown" finished-at="2026-10-23T19:12:55 ICT" duration-ms="245" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=testSubmitPracticeForm status=SUCCESS method=PracticeFormTest.testSubmitPracticeForm(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:tests.PracticeFormTest@77167fb7] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:tests.PracticeFormTest@77167fb7]" started-at="2026-10-23T19:12:55 ICT" name="setUp" finished-at="2026-10-23T19:12:59 ICT" duration-ms="3772" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testSubmitPracticeForm(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:tests.PracticeFormTest@77167fb7]" started-at="2026-10-23T19:12:59 ICT" name="testSubmitPracticeForm" data-provider="studentData" finished-at="2026-10-23T19:13:00 ICT" duration-ms="1467" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Tran]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Binh]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[binh.tran@gmail.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Female]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[0912345678]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[20]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[August]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[2002]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[English]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[Reading]]>
+              </value>
+            </param>
+            <param index="10">
+              <value>
+                <![CDATA[624 AU CO, HCM]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSubmitPracticeForm -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:tests.PracticeFormTest@77167fb7]" started-at="2026-10-23T19:13:00 ICT" name="tearDown" finished-at="2026-10-23T19:13:00 ICT" duration-ms="232" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=testSubmitPracticeForm status=SUCCESS method=PracticeFormTest.testSubmitPracticeForm(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:tests.PracticeFormTest@77167fb7] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:tests.PracticeFormTest@77167fb7]" started-at="2026-10-23T19:13:00 ICT" name="setUp" finished-at="2026-10-23T19:13:04 ICT" duration-ms="3646" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testSubmitPracticeForm(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:tests.PracticeFormTest@77167fb7]" started-at="2026-10-23T19:13:04 ICT" name="testSubmitPracticeForm" data-provider="studentData" finished-at="2026-10-23T19:13:05 ICT" duration-ms="1421" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Le]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Cuong]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[cuong.le@gmail.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Male]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[0987654321]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[10]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[December]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[2004]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[Physics]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[Music]]>
+              </value>
+            </param>
+            <param index="10">
+              <value>
+                <![CDATA[615 AU CO, HCM]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSubmitPracticeForm -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:tests.PracticeFormTest@77167fb7]" started-at="2026-10-23T19:13:05 ICT" name="tearDown" finished-at="2026-10-23T19:13:05 ICT" duration-ms="75" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=testSubmitPracticeForm status=SUCCESS method=PracticeFormTest.testSubmitPracticeForm(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:tests.PracticeFormTest@77167fb7] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- tests.PracticeFormTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
